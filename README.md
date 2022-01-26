@@ -4,35 +4,23 @@
 - **tailwindcss:** v3.x
 
 ## Started
-with npm:
-```bash
-npm install
-```
-with yarn:
 ```bash
 yarn
+# or `npm install`
 ```
 
 ---
 ## Develop
-with npm:
-```bash
-npm run dev
-```
-with yarn:
 ```bash
 yarn dev
+# or `npm run dev`
 ```
 
 ---
 ## Build
-with npm:
-```bash
-npm run build
-```
-with yarn:
 ```bash
 yarn build
+# or `npm run build`
 ```
 
 ---
